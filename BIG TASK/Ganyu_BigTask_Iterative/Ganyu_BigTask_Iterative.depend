@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1735482806 source:d:\aa data\001 tel u\semester 3\algorithm complexity analysis\big task\ganyu_bigtask_iterative\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<sstream>
+	<algorithm>
+	<map>
+	<unordered_map>
+
